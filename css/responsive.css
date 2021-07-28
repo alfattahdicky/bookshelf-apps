@@ -1,0 +1,7 @@
+@import "style.css";
+
+@media screen and (min-width: 500px) {
+  .input-search {
+    width: 200px;
+  }
+}
